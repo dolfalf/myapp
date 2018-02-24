@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# myapp
+vagrantからremoteにするテスト
+>>>>>>> 5a45816e6c54c02a6518b3bd1ddc7f8248ccb346
